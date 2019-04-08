@@ -1,2 +1,3 @@
-api_token = ""
-api_email_address = ""
+api_key = ""
+api_email = ""
+zone_id = ""
